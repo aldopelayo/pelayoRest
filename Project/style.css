@@ -140,6 +140,7 @@ i{
 */
 #menu{
     padding:25px 0px 25px 0px;
+    background-color: rgb(249,248,244);
 }
 #section{
     padding: 25px 0px 25px 0px;
@@ -204,6 +205,7 @@ i{
 
 #about{
     padding: 25px 0 25px 0;
+    background-color: rgb(249,248,244);
 }
 #about_row{
     display: flex;
@@ -241,6 +243,7 @@ i{
 
 #contact{
     padding: 25px 0 25px 0;
+    background-color: rgb(249,248,244);
 }
 #contact_row{
     display: flex;
