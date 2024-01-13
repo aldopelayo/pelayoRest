@@ -152,8 +152,8 @@ i{
     padding: 0px 100px 0px 100px;
 }
 #menu_col{
-    box-shadow: 2px 2px 2px #bbb;
-    border: 1px solid #bbb;
+    /*box-shadow: 2px 2px 2px #bbb; */
+    border: 1px dotted lightgrey;
     background-color: #fff;
     margin: 10px;
     padding: 10px;
@@ -162,8 +162,8 @@ i{
 
 #menu_col h2
 {
-    background-color: red;
-    color: #fff;
+    background-color: tan;
+    color: black;
     text-align: center;
     padding: 5px;
     font-family: cursive;
@@ -173,7 +173,7 @@ i{
     height: 150px;
     border-radius: 5%;
     padding: 5px;
-    border: 2px solid orange;
+    /*border: 2px solid orange;*/
 }
 
 #image img{
