@@ -154,8 +154,8 @@ i{
 }
 #menu_col{
     /*box-shadow: 2px 2px 2px #bbb; */
-    border: 1px dotted lightgrey;
-    background-color: #fff;
+    /*border: 1px dotted lightgrey; */
+    background-color: rgb(249,248,244);
     margin: 10px;
     padding: 10px;
     flex: 1;
