@@ -170,19 +170,72 @@ i{
     font-family: cursive;
 }
 #image {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 5%;
     padding: 5px;
     /*border: 2px solid orange;*/
 }
 
-#image img{
+#image #image1{
     width: 100%;
     height: 100%;
-    border-radius: 50%;
     object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Quesadilla.jpg);
+    background-size: cover;
 }
+
+#image #image2{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Tacos.jpg);
+    background-size: cover;
+}
+#image #image3{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Tortas.jpg);
+    background-size: cover;
+}
+#image #image4{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Burritos.jpg);
+    background-size: cover;
+}
+#image #image5{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Birria\ and\ sidral.jpg);
+    background-size: cover;
+}
+#image #image6{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Mariscos.jpg);
+    background-size: cover;
+}
+#image #image7{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Mariscos.jpg);
+    background-size: cover;
+}
+
+
 .box{
     display: flex;
     flex-direction: column;
@@ -235,7 +288,7 @@ i{
 }
 .about_col p{
     text-align: justify;
-    font-weight: bold;
+    font-size: 20px;
 }
 
 
