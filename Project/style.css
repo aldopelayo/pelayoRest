@@ -124,7 +124,7 @@ body{
     display: none;
     height: 40px;
     line-height: 40px;
-    background-color: magenta;
+    background: rgb(0,0,0,0.5);
 }
 
 #mobile_menu ul{
@@ -231,11 +231,91 @@ i{
     height: 100%;
     object-fit: cover;
     margin: fill;
-    background-image: url(/Project/images/Mariscos.jpg);
+    background-image: url(/Project/images/Platillos.jpg);
     background-size: cover;
 }
+#image #image8{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Desayunos.jpg);
+    background-size: cover;
+}
+#image #image9{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/gorditasNMBEEF.jpg);
+    background-size: cover;
+}
+#image #image10{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/sopes.jpg);
+    background-size: cover;
+}
+#image #image11{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Huaraches.jpg);
+    background-size: cover;
+}
+#image #image12{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Nachos.jpg);
+    background-size: cover;
+}
+#image #image13{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/coca-cola-473780_640.jpg);
+    background-size: cover;
+}
+#image #image14{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Corona.jpg);
+    background-size: cover;
+}
+#image #image15{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Churro.jpg);
+    background-size: cover;
+}
+#image #image16{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Nuggets.jpg);
+    background-size: cover;
 
-
+}
+#image #image17{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: fill;
+    background-image: url(/Project/images/Menudo.jpg);
+    background-size: cover;
+    
+}
 .box{
     display: flex;
     flex-direction: column;
