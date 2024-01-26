@@ -375,6 +375,11 @@ i{
     padding: 25px 0 25px 0;
     background-color: rgb(249,248,244);
 }
+.togoButtons{
+    margin: auto;
+    display: flex;
+    text-align: center;
+}
 .UberEats{
     color: #162328;
     background-color: #3FC060;
