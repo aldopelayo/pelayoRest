@@ -14,6 +14,7 @@ body{
     overflow-x: hidden;
 }
 
+
 /*hero section*/
 #hero{
     position: relative;
@@ -40,6 +41,7 @@ body{
 }
 
 #hero_content{
+    align-items: center;
     position: absolute;
 
 }
@@ -51,6 +53,7 @@ body{
 #hero_content h1{
     font-size: 2.8rem;
     text-shadow: 2px 2px 2px #000;
+    margin-right: 30%;
 }
 
 #hero_content h2{
@@ -73,7 +76,12 @@ body{
 #hero_content a:hover{
     background: navy;
 }
-
+#TogoHead{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
 /*header section*/
 #header{
     position: absolute;
@@ -132,6 +140,17 @@ body{
     justify-content: center;
 }
 
+#TogoLogos{
+    
+}
+
+#TogoSection{
+    
+}
+
+#TogoHead{
+margin-left: 100px;
+}
 /*header end*/
 /*
 i{
@@ -468,6 +487,9 @@ i{
     #menu_row,#about_row{
         flex-wrap: wrap;
         padding: 0 10px 0 10px;
+    }
+    #hero_content{
+        margin-top: 30%;
     }
 }
 @media screen and (max-width:360px){
