@@ -76,12 +76,14 @@ body{
 #hero_content a:hover{
     background: navy;
 }
+/*
 #TogoHead{
     position: absolute;
     top:50%;
     left: 50%;
     transform: translate(-50%, -50%);
     }
+*/
 /*header section*/
 #header{
     position: absolute;
@@ -139,18 +141,11 @@ body{
     display: flex;
     justify-content: center;
 }
-
-#TogoLogos{
-    
-}
-
-#TogoSection{
-    
-}
-
+/*
 #TogoHead{
-margin-left: 100px;
+justify-content: center;
 }
+*/
 /*header end*/
 /*
 i{
@@ -385,20 +380,30 @@ i{
     text-align: center;
     font-family: cursive;
 }
+
 .about_col p{
     text-align: justify;
     font-size: 20px;
 }
+.togoContainer {
+    height: 300px;
+  background: rgb(249,248,244);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
 
-#togo{
-    padding: 25px 0 25px 0;
-    background-color: rgb(249,248,244);
-}
-.togoButtons{
-    margin: auto;
-    display: flex;
+  .togo{
+    width: 200px;
+    width: 200px;
     text-align: center;
-}
+    background-color: rgb(249,248,244);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  
+
 .UberEats{
     color: #162328;
     background-color: #3FC060;
