@@ -62,7 +62,7 @@ body{
     margin-top: 1rem;
     margin-bottom: 4rem;
 }
-
+/*
 #hero_content a{
     padding: 3px 20px 3px 20px;
     border: 1px solid orange;
@@ -72,6 +72,7 @@ body{
     border-radius: 25px;
 
 }
+*/
 
 #hero_content a:hover{
     background: navy;
@@ -407,6 +408,12 @@ i{
 .UberEats{
     color: #162328;
     background-color: #3FC060;
+}
+.UberOrder{
+    width: 110px;
+    height: 45px;
+    background-color: #3FC060;
+    color: #162328;
 }
 
 #contact{
