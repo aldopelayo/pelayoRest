@@ -19,7 +19,7 @@ body{
 #hero{
     position: relative;
     width: 100vw;
-    height: 100vh;
+    height: 65vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -156,6 +156,7 @@ i{
 #menu{
     padding:25px 0px 25px 0px;
     background-color: rgb(249,248,244);
+    font-size: small;
 }
 #section{
     padding: 25px 0px 25px 0px;
