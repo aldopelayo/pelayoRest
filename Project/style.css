@@ -32,7 +32,7 @@ body{
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/Project/images/photo-1666025954339-97a97468de17.avif);
+    background-image: url(/project/images/photo-1666025954339-97a97468de17.avif);
     background-size: cover;
     background-position: center center ;
     background-repeat: no-repeat;
@@ -410,6 +410,15 @@ i{
     color: #162328;
     background-color: #3FC060;
 }
+
+.GrubOrder{
+    width: 110px;
+    height: 45px;
+    background-color: orange;
+    color: #162328 ;
+}
+
+
 .UberOrder{
     width: 110px;
     height: 45px;
